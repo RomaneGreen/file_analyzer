@@ -1,0 +1,3 @@
+
+
+puts ARGV.join('-')
