@@ -1,5 +1,5 @@
-# file_analyzer
-a ruby application that grabs data which entails a file's total word count,paragraph count,amount of sentences + a summary
+# File_analyzer
+A ruby application that grabs data which entails a file's total word count,paragraph count,amount of sentences + a summary
 
 ### Instructions
 
